@@ -4,8 +4,8 @@
 
 Layering -
 
-API Layer
-Service Layer
-Data Access Layer
+API Layer (Student)
+Service Layer (Student Controller)
+Data Access Layer (Student Service)
 
 ---
