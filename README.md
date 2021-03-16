@@ -1,2 +1,0 @@
-# Here-Be-Java
-Java
